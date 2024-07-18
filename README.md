@@ -1,10 +1,15 @@
 
 
 PROJECT
+<br>
 Picture Puzzle_Game
+<br>
 Author 
+<br>
             Mansoor Chatha
+	    <br>
 Language 
+<br>
             C#
 
 
@@ -16,13 +21,21 @@ Language
 using System;
 <br>
 using System.Collections.Generic;
+<br>
 using System.ComponentModel;
+<br>
 using System.Data;
+<br>
 using System.Drawing;
+<br>
 using System.Linq;
+<br>
 using System.Text;
+<br>
 using System.Threading.Tasks;
+<br>
 using System.Timers;
+<br>
 using System.Windows.Forms;
 
 namespace Puzzle_Game
