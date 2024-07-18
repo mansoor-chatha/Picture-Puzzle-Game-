@@ -39,15 +39,25 @@ using System.Timers;
 using System.Windows.Forms;
 
 namespace Puzzle_Game
+<br>
 {
+<br>
     public partial class Form1 : Form
+    <br>
     {
+    <br>
         System.Timers.Timer timer; 
+	<br>
             int h, m, s;
+	    <br>
         public Form1()
+	<br>
         {
+	<br>
             InitializeComponent();
+	    <br>
         }
+	<br>
 
        
 
